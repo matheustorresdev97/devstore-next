@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@t3-oss/env-nextjs": "^0.11.0",
     "cypress": "^13.13.3",
     "devstore": "file:",
     "lucide-react": "^0.428.0",
